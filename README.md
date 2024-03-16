@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: www.linkedin.com/in/noceba-jack
 - 😄 Pronouns: She/Her
-- 🎓 Computer Informations Systems
+- 🎓 Computer Informations Systems Student
 
 <!---
 Noceba-Jack/Noceba-Jack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
