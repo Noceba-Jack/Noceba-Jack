@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noceba-Jack
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Systems Development
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: www.linkedin.com/in/noceba-jack
 - 😄 Pronouns: She/Her
 
